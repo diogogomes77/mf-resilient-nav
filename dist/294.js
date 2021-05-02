@@ -1,0 +1,1 @@
+(self.webpackChunknav=self.webpackChunknav||[]).push([[294],{294:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>c});var a=t(927),r=t.n(a);const c=function(){return r().createElement("div",{style:{padding:"1em",background:"red",color:"white",fontSize:"xx-large"}},"HEADER 1")}}}]);
